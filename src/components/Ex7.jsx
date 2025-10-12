@@ -3,12 +3,12 @@
 // Considerando o layout abaixo, estilize com Tailwind:
 
 // - O cabeçalho ocupa largura total (com título e botão “Logout” alinhados em extremidades).
-// - O conteúdo é dividido em **2 colunas no desktop** e **1 coluna no mobile**.
+// - O conteúdo é dividido em 2 colunas no desktop e 1 coluna no mobile.
 // - Cada card deve ter borda, sombra e padding
 
 export default function Ex7() {
   return (
-    <div>
+    <div className="my-8">
         <h1 className="text-2xl font-bold mb-4">Ex7 - Dashboard Simples</h1>
       <header>
         <h1>Meu Dashboard</h1>
