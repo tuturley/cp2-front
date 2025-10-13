@@ -1,4 +1,4 @@
-// Ex8 — Card de produto com hover e ícone animado
+// Ex8 — Card de produto com hover e ícone animado (2 pontos)
 
 // Implemente os efeitos solicitados no card abaixo:
 
