@@ -1,4 +1,4 @@
-// Ex8 — Dashboard simples com Grid
+// Ex7 — Dashboard simples com Grid (2 pontos)
 
 // Considerando o layout abaixo, estilize com Tailwind:
 
